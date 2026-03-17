@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KristelAriasCulala&bg_color=0d1117&color=00d4ff&line=0a84ff&point=ffffff&area=true&area_color=0a84ff&hide_border=false&border_color=0a84ff" width="100%" />
+      <img src="https://raw.githubusercontent.com/KristelAriasCulala/KristelAriasCulala/output/github-contribution-grid-snake-dark.svg" width="100%" />
     </td>
   </tr>
 </table>
