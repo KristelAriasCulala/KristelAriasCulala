@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a84ff,100:00d4ff&height=280&section=header&text=Kristel%20Arias%20Culala&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Designer%20%7C%20Developer%20%7C%20Creative%20Technologist&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a84ff,100:00d4ff&height=280&section=header&text=Kristel%20Arias%20Culala&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Designer%20%7C%20Developer%20%7C%20Creative%20Technologist&descAlignY=55&descSize=18" width="100%" />
 
 <div align="center">
 
-"Making it look good and making it work — one pixel at a time."
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Making+it+look+good+and+making+it+work...;One+pixel+at+a+time.+%F0%9F%9A%80;Designer+%7C+Developer+%7C+Creative+Technologist)](https://git.io/typing-svg)
 
 </div>
 
@@ -74,7 +74,9 @@ Blending good design, clean visuals, and technical skill to build things that tr
 </div>
 
 <div align="center">
-<i>Open to Collabs & Opportunities 🚀</i>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Open+to+Collabs+%26+Opportunities+%F0%9F%9A%80;Let%27s+build+something+great!)](https://git.io/typing-svg)
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a84ff,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a84ff,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" />
