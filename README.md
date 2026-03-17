@@ -12,7 +12,7 @@
 
 ### About Me
 
-UI/UX · Digital Artist · Web Design · Graphic Design · Illustrator · Character Artist
+UI/UX · Digital Art · Web Design · Illustrator · Character Artist
 
 Blending good design, clean visuals, and technical skill to build things that truly stand out. Always learning, always creating.
 
@@ -30,14 +30,14 @@ Blending good design, clean visuals, and technical skill to build things that tr
 
 ![Affinity](https://img.shields.io/badge/Affinity-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
 ![Krita](https://img.shields.io/badge/Krita-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
-![Ibis%20Paint](https://img.shields.io/badge/Ibis%20Paint-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
+![Ibis Paint](https://img.shields.io/badge/Ibis%20Paint-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
 ![CapCut](https://img.shields.io/badge/CapCut-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
-![Alight%20Motion](https://img.shields.io/badge/Alight%20Motion-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
-![UI/UX%20Design](https://img.shields.io/badge/UI%2FUX%20Design-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
-![Digital%20Art](https://img.shields.io/badge/Digital%20Art-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
-![Game%20Artist](https://img.shields.io/badge/Game%20Artist-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
-![Graphic%20Design](https://img.shields.io/badge/Graphic%20Design-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
-![Web%20Design](https://img.shields.io/badge/Web%20Design-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
+![Alight Motion](https://img.shields.io/badge/Alight%20Motion-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
+![Digital Art](https://img.shields.io/badge/Digital%20Art-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
+![Game Artist](https://img.shields.io/badge/Game%20Artist-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
+![Web Design](https://img.shields.io/badge/Web%20Design-ffffff?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=ffffff)
 
 </div>
 
@@ -47,12 +47,12 @@ Blending good design, clean visuals, and technical skill to build things that tr
 
 ### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a84ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristel-culala-21872a347/)
-[![Facebook](https://img.shields.io/badge/Facebook-0a84ff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Samivart1/)
-[![TikTok](https://img.shields.io/badge/TikTok-0a84ff?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@samivart1)
-[![Instagram](https://img.shields.io/badge/Instagram-0a84ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samivart1/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-0a84ff?style=for-the-badge&logo=pinterest&logoColor=white)](https://ph.pinterest.com/Samivart1/)
-[![YouTube](https://img.shields.io/badge/YouTube-0a84ff?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@samivart1065/search)
+<a href="https://www.linkedin.com/in/kristel-culala-21872a347/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>&nbsp;
+<a href="https://www.instagram.com/samivart1/"><img src="https://skillicons.dev/icons?i=instagram" height="48" /></a>&nbsp;
+<a href="https://www.facebook.com/Samivart1/"><img src="https://cdn.simpleicons.org/facebook/0a84ff" height="48" /></a>&nbsp;
+<a href="https://www.tiktok.com/@samivart1"><img src="https://cdn.simpleicons.org/tiktok/ffffff" height="48" /></a>&nbsp;
+<a href="https://ph.pinterest.com/Samivart1/"><img src="https://cdn.simpleicons.org/pinterest/cc0000" height="48" /></a>&nbsp;
+<a href="https://www.youtube.com/@samivart1065/search"><img src="https://cdn.simpleicons.org/youtube/cc0000" height="48" /></a>
 
 </div>
 
