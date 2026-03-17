@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/KristelAriasCulala/KristelAriasCulala/output/github-contribution-grid-snake-dark.svg" width="100%" />
+      <img src="https://github.com/KristelAriasCulala/KristelAriasCulala/blob/output/github-contribution-grid-snake.svg" width="100%" />
     </td>
   </tr>
 </table>
